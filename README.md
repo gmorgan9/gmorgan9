@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmorgan9&theme=nord&show_icons=true)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmorgan9&theme=nord&show_icons=true)-->
 
-![AkuraDiary's github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gmorgan9&theme=nord)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gmorgan9&theme=nord" alt="mystreak"/>
+![test](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gmorgan9&theme=nord)
+<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=gmorgan9&theme=nord" alt="mystreak"/>-->
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmorgan9&theme=nord&layout=compact)
