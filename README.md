@@ -15,10 +15,10 @@ I'm Garrett Morgan, an aspiring Networking Expert and Cybersecurity Enthusiast w
 - Tech Nerd
 
 # 🧑‍💻 My open source repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gmorgan9&repo=gmorgan9.github.io&theme=nord_dark)](https://github.com/techno-tim/k3s-ansible)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gmorgan9&repo=gmorgan9.github.io&theme=nord)](https://github.com/techno-tim/k3s-ansible)
 
 # 📊 My Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gmorgan9&theme=nord_dark)
-[![gmorgan9's github stats](https://github-readme-stats.vercel.app/api?username=gmorgan9&show_icons=true&count_private=true&theme=nord&hide=stars&hide=issues)](https://github.com/gmorgan9)
+[![gmorgan9's github stats](https://github-readme-stats.vercel.app/api?username=gmorgan9&show_icons=true&count_private=true&theme=nord&hide=stars,issues)](https://github.com/gmorgan9)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gmorgan9&theme=nord_dark)
